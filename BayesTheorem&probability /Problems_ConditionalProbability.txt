@@ -1,0 +1,35 @@
+Problems
+
+
+
+Problem 1: Random Drug Testing
+
+Joe is a randomly chosen member of a large population in which 3% are heroin users. Joe tests positive for heroin in a drug test that correctly identifies users 95% of the time (also Called as the sensitivity of the test) and correctly identifies nonusers 90% of the time. 
+
+a. Determine the probability that Joe uses heroin given the positive test result
+
+b. What can you conclude from this result
+
+
+
+
+Problem 2: Quality Control 
+
+A desk lamp produced by The Luminar Company was found to be defective (D). There are three factories (A, B, C) where such desk lamps are manufactured. A Quality Control Manager (QCM) is responsible for investigating the source of found defects. This is what the QCM knows about the company's desk lamp production and the possible source of defects:
+
+For factory A
+P(A) = 0.35 
+P(D | A) = 0.015 
+
+For factory  B
+P(B) = 0.35 
+P(D | B) = 0.010 
+
+For factory  C
+P(C) = 0.30 
+P(D | C) = 0.020 
+
+
+If a randomly selected lamp is defective, what is the probability that the lamp was manufactured in factory C?
+
+
